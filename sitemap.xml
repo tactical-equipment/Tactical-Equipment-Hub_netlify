@@ -6,38 +6,38 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>index.html</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>news.html</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>news/how-to-protect-heavy-tactical-gear-in-long-term-storage.html</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>news/plate-carrier-loadout-tips-for-faster-cleaner-gear-access.html</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-to-protect-heavy-tactical-gear-in-long-term-storage.html</loc>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2026-07-16T13:19:02+00:00</lastmod>
+                 <lastmod>2026-07-17T07:26:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
