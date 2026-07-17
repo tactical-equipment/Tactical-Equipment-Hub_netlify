@@ -18,90 +18,121 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.x1efafd60f45e3a91355308f99b8fe312{
-background:#FEF6EA;border-bottom:1px solid #bcbc86
-}
-.wfd20d2c4765fa8566f79c19b8f09c1c5{
-background:#ffffff;
-}
-a{
-text-decoration: none;
-}
-h3,h2,h4,h5{
-font-weight:900;font-size:36px
+h1,h2,h3,h4,h5,h6{
+font-family:Montserrat, sans-serif
 }
 a:hover{
 color:#370fff;background:#ffffff!important
 }
-h1,h2,h3,h4,h5,h6{
-font-family:Montserrat, sans-serif
+.y7d381af6a1bf22c904184ab141590d11{
+padding: 20px;
+background: #f5f5f7;
+margin-bottom: 30px;
+position: relative;
+border-radius: 2px;  
+
+margin-bottom: 30px;
+transition: all 400ms;
 }
-.t99002f8ea7d8497a81dfc7bf3834d170 > a:focus, .t99002f8ea7d8497a81dfc7bf3834d170 > a:hover{
-text-decoration: none;
-color: #068ba7;
+.ea8c3e7059e86ac994a1dc5d803e3fbaf{
+color: #a0a0a0;
+font-size: 20.1px;
+margin-bottom: 20.8px;
 }
 iframe{
 border: none!important;
 }
-.w6831dccb6708960760161446aec8f049{
-font-size:16px!important;
-color: #646464;
+.justify-content-evenly{
+justify-content: space-evenly;
 }
-.wff9515d0b5cc7635715736f8e3151278{
-color:#fd834c!important;
-}
-.t427f0dc0474ca347890c8ef543fc08b8 *{
-color: white;
-}
-.t890b7a3c83ec7116015769e6ecddc965 a{
-color: white;
-}
-.x949ca2bd2b59d1a5b647a46a6e810ffb{
-font-size:36px;font-weight:800
-}
-.t99002f8ea7d8497a81dfc7bf3834d170 > .t890b7a3c83ec7116015769e6ecddc965 > a{
+.y7d381af6a1bf22c904184ab141590d11 > a:focus, .y7d381af6a1bf22c904184ab141590d11 > a:hover{
 text-decoration: none;
+color: #0388a4;
 }
-.wfd20d2c4765fa8566f79c19b8f09c1c5 a{
-font-size:16px;
+.d7e76fdd77541d7011b074070ec0e8c28 p,.d7e76fdd77541d7011b074070ec0e8c28 span,.d7e76fdd77541d7011b074070ec0e8c28 label{
+font-size:16px!important;
 }
-.tc8604386172f591ae733ddaa473ae011{
-font-size: 2rem !important;
+.y7d381af6a1bf22c904184ab141590d11 > a{
+color:#000000;
 }
-.t99002f8ea7d8497a81dfc7bf3834d170:hover{
-box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
-border-radius: 5px;
+.bg-new{
+background: #fd834c;
+padding: 17px 40px;
+letter-spacing: 1px;
+border-radius: 100px;
+font-weight: 900;
+font-size: 16px;
 }
-.y3900cc534153bc3fb1ed823380bf42cc i:hover{
-background: white;
-color: #370fff;!important;
-line-height: 35px;
-border-radius: 50%;
-width: 37px;
-text-align: center;
-height: 37px;
+.btn-md{
+padding: 15.1px 30px;
+border-radius: 0;
 }
-.x99bc8318ff04c48d665b45e78f5b1af6{
-background:rgba(188,188,134,0.25);
-color:#424242;
+h1{
+font-weight:900
+}
+footer a{
+color:#fd834c;
+text-decoration: underline;
 }
 footer *{
 font-size:16px !important;
 }
-html{
-scroll-behavior: smooth;
+.f847e9d8c596548d6f7398a32124b329d{
+font-size:61px!important;font-weight:600
 }
-.yd42fc3ff835908fea112e43429438da3{
-transition: all 0.3s; 
-}
-.y3900cc534153bc3fb1ed823380bf42cc i{
-border-radius: 50%;
-width: 36.9px;
-line-height: 35px;
+.vd7dc2b9554083905bc7614c97a87f391{
+color: #fff;
+background-color: #fc834e;
+border-color: #ff8f5a;
+display: inline-block;
+font-weight: 800;
+line-height: 1.5;
 text-align: center;
-height: 37.3px;
+vertical-align: middle;
+cursor: pointer;
+padding: 1rem 1.75rem;
+font-size: 0.875rem;
+border-radius: 0;
+transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-.f60034edde8a998177ffacc6906d58d8c{
+.w2c48f5233278c7b2742a4484f54611cb{
+font-size:15.3px!important;
+font-style: italic;
+margin-top: 0;
+font-style: normal;
+color: #575757;
+}
+.y1737242eba63aa656f1aa49377b59f0f{
+font-size:36px;font-weight:800
+}
+.yb4cf8c70a70e51425d3ad48e8e30feb1{
+font-weight: inherit;
+background-image: linear-gradient(120deg, #ffd264 0%, #ffc95b 100%);
+background-repeat: no-repeat;
+background-size: 100% 30%;
+background-position: 0 90%;
+transition: background-size 0.2s ease-in;
+}
+.wbaa1308d75842e4cb71d9abafbaad539{
+font-weight:900;
+}
+.w89e0de0fe272de54f78331d3e0ceb6c8{
+font-size: 2rem !important;
+}
+.ya1badc16242940358593433b2345b4ae{
+background:rgba(188,188,134,0.25);
+color:#4f4f4f;
+}
+.ya1badc16242940358593433b2345b4ae p,.ya1badc16242940358593433b2345b4ae a,.ya1badc16242940358593433b2345b4ae span,.ya1badc16242940358593433b2345b4ae label{
+font-size:16px!important;
+}
+.w2c48f5233278c7b2742a4484f54611cb a{
+color: white;
+}
+.y76b45a64625349dcefba700fa72c6b18{
+background:#a55c5c!important ;
+}
+.b083e1d3a8780e4a22ae1d9c193e86f2c{
 width: 100%;
 max-height: 720px;
 object-fit: cover;
@@ -115,39 +146,48 @@ top: 0;
 left: 0;
 right: 0;
 }
-.nav-item{
-padding-left:8.5px;
-padding-right:8.5px;
-padding-top:4.5px;
-padding-bottom:5.3px;
+.y7d381af6a1bf22c904184ab141590d11 > .w2c48f5233278c7b2742a4484f54611cb > a{
+text-decoration: none;
 }
-.t890b7a3c83ec7116015769e6ecddc965{
-font-size:15.3px!important;
-font-style: italic;
-margin-top: 0;
-font-style: normal;
-color: #555555;
+.wf56aaf7b511ef61c9a640e00d5170c86:hover,.yb4cf8c70a70e51425d3ad48e8e30feb1:hover{
+background-size: 100% 100% !important;
+background: #ffffff!important;
+background-repeat: no-repeat !important;
+background-position: 0 90% !important;
+transition: background-size 0.2s ease-in !important;
 }
-.b9217326b4ccd888287a5d43da44b981b *{
-color:#ffffff;
-}
-.wfd20d2c4765fa8566f79c19b8f09c1c5 p,.wfd20d2c4765fa8566f79c19b8f09c1c5 span,.wfd20d2c4765fa8566f79c19b8f09c1c5 label{
-font-size:16px!important;
-}
-.v613f5cd71015cd3dfcbee7dfb65a5042{
-color: #a5a5a5;
-font-size: 20.4px;
-margin-bottom: 21.1px;
-}
-.navbar a{
-font-size: 15.9px!important;
-font-weight: normal;text-transform:uppercase
-}
-body{
-color: #484848;
+a{
+text-decoration: none;
 }
 *{
 font-family: 'Roboto', sans-serif;
+}
+.d7e76fdd77541d7011b074070ec0e8c28 a{
+font-size:16px;
+}
+.aae54a3a2362dae9fb7e09a8cd6c0d053 i:hover{
+background: white;
+color: #370fff;!important;
+line-height: 35px;
+border-radius: 50%;
+width: 36.9px;
+text-align: center;
+height: 37.3px;
+}
+.y7d381af6a1bf22c904184ab141590d11 > a > .xebbd0e7ca07feef118553bb829438368{
+font-weight: 400;
+margin-bottom: 0.625rem;
+line-height:1.7;
+font-size:14.5px;
+}
+ul li a{
+color:#fd834c
+}
+.z6fdab59bfbd4a55c7feff5ffad25d405 *{
+color:#ffffff;
+}
+.c2ab1d63a1c2dd38edaf282a8b1063c4d{
+text-decoration: underline!important;color:#ff9127!important
 }
 .navbar-toggler span{
 display: flex;
@@ -156,120 +196,41 @@ justify-content: center;
 border: 1px solid lightgrey;
 border-radius: 3px;
 }
-.w9428393aa0194907c640a523ecab3f4e{
-font-weight:900;
+body{
+color: #4c4c4c;
 }
-.x99bc8318ff04c48d665b45e78f5b1af6 p,.x99bc8318ff04c48d665b45e78f5b1af6 a,.x99bc8318ff04c48d665b45e78f5b1af6 span,.x99bc8318ff04c48d665b45e78f5b1af6 label{
+.c37af8e6c39df9dfc340ad4c1dd227a5e{
 font-size:16px!important;
+color: #727272;
 }
-.xa2b4bea99a10c5100c21cc2cad9230f9{
-font-weight: inherit;
-background-image: linear-gradient(120deg, #ffd96b 0%, #ffd96b 100%);
-background-repeat: no-repeat;
-background-size: 100% 30%;
-background-position: 0 90%;
-transition: background-size 0.2s ease-in;
+.ue54e51c1015790d6c9e5e0d66d8cd69c *{
+color: white;
 }
-.d42b7986f889f9c94fc76977a196e6e99{
-color: #494949;
+.d7e76fdd77541d7011b074070ec0e8c28{
+background:#ffffff;
 }
-.y658490c66acb9d940dd645819e151edb{
-font-size: 19.7px;
-font-weight: bold;
+.ec1b8a4473a932eef340f28f56f63ac4b{
+color:#fd834c!important;
 }
-.navbar-brand img{
-position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
+h3,h2,h4,h5{
+font-weight:900;font-size:36px
 }
-h1{
-font-weight:900
-}
-.wcd1aa5aee0519482e19141140b70d810{
-color: #fff;
-background-color: #ff8c57;
-border-color: #ff8651;
-display: inline-block;
-font-weight: 800;
-line-height: 1.5;
-text-align: center;
-vertical-align: middle;
-cursor: pointer;
-padding: 1rem 1.75rem;
-font-size: 0.875rem;
-border-radius: 0;
-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-.post-content *{
-
-font-size: 1.25rem;
-}
-.wfd20d2c4765fa8566f79c19b8f09c1c5 *{
-color:#494949!important;
-}
-.bg-new{
-background: #fd834c;
-padding: 17px 40px;
-letter-spacing: 1px;
-border-radius: 100px;
-font-weight: 900;
-font-size: 16px;
-}
-.ae282141a732f169c57a33c3494b217f3{
-font-size: 13.9px;
-}
-.nav-link{
-color: #5b5b5b;
-
-}
-.x8d508103caf0a9c2d85a50664cee7b18{
-background:#a55c5c!important ;
-}
-.t99002f8ea7d8497a81dfc7bf3834d170 > a > .x16decc24f43de9bc29b8185ada4a6e1b{
-font-weight: 400;
-margin-bottom: 0.625rem;
-line-height:1.7;
-font-size:15px;
-}
-.container{
-max-width:1300px
-}
-.ceb8a5e0b3219857792373bbaa082b806{
-font-size:61px!important;font-weight:600
-}
-ul{
-text-decoration:none;display:inline-block;text-align:left
+.wf2588786135166c5fd9ff6a70a02f508{
+color: #525252;
 }
 .navbar{
 padding-top:42px;padding-bottom:42px;
 }
-.b30192bd1c14a6882f5c36c5eeb82cdf0:hover,.xa2b4bea99a10c5100c21cc2cad9230f9:hover{
-background-size: 100% 100% !important;
-background: #ffffff!important;
-background-repeat: no-repeat !important;
-background-position: 0 90% !important;
-transition: background-size 0.2s ease-in !important;
+.navbar-brand img{
+position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
 }
-.t99002f8ea7d8497a81dfc7bf3834d170 > a{
-color:#000000;
+html{
+scroll-behavior: smooth;
 }
-.btn-md{
-padding: 15.3px 30.5px;
-border-radius: 0;
+.container{
+max-width:1300px
 }
-.t99002f8ea7d8497a81dfc7bf3834d170{
-padding: 20px;
-background: #f5f5f7;
-margin-bottom: 30px;
-position: relative;
-border-radius: 2px;  
-
-margin-bottom: 30px;
-transition: all 400ms;
-}
-footer a{
-color:#fd834c;
-text-decoration: underline;
-}
-.xba7f37f6e723db9ee33a62038108ca08{
+.dffb28b1a0630b8507292bb8e50e6624b{
     background-color: transparent;
 font-size: 23.5px;
 height: 47.8px;
@@ -280,23 +241,62 @@ color: #ffffff !important;
 border: 1px solid #ffffff;
 border-radius: 25px;
 }
-.t99002f8ea7d8497a81dfc7bf3834d170 > a > .w602deb8960b09346841283a6ed96829d{
-font-size: 22.2px;
+.nav-link{
+color: #5b5b5b;
+
+}
+.d7e76fdd77541d7011b074070ec0e8c28 *{
+color:#545454!important;
+}
+ul{
+text-decoration:none;display:inline-block;text-align:left
+}
+footer{
+background:#656262;
+color:#ffffff;
+}
+.y7d381af6a1bf22c904184ab141590d11 > a > .ba84a08e0d144bec069343c83e9950751{
+font-size: 22.1px;
 margin-top: 1.875rem;
 margin-bottom: 0.625rem;
 }
-footer{
-background:#6c6969;
-color:#ffffff;
+.aae54a3a2362dae9fb7e09a8cd6c0d053 i{
+border-radius: 50%;
+width: 36.7px;
+line-height: 35px;
+text-align: center;
+height: 36.6px;
 }
-.ub4383778d2d45263e17254360f4ecd51{
-text-decoration: underline!important;color:#ff8016!important
+.y7d381af6a1bf22c904184ab141590d11:hover{
+box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
+border-radius: 5px;
 }
-ul li a{
-color:#fd834c
+.navbar a{
+font-size: 15.8px!important;
+font-weight: normal;text-transform:uppercase
 }
-.justify-content-evenly{
-justify-content: space-evenly;
+.v9494f8e2af6647feab24cfdf7367213d{
+transition: all 0.3s; 
+}
+.abbc275e164471297506ddc597aef1abd{
+font-size: 20.3px;
+font-weight: bold;
+}
+.wb676b2ade85e83e852ae7ee6d85ce6ba{
+background:#FEF6EA;border-bottom:1px solid #bcbc86
+}
+.post-content *{
+
+font-size: 1.25rem;
+}
+.nav-item{
+padding-left:8.4px;
+padding-right:7.9px;
+padding-top:4.9px;
+padding-bottom:4.9px;
+}
+.v4b219ef5be99245bb22bd150fc159a61{
+font-size: 14.3px;
 }
     .dropdown-submenu {
     position: relative;
@@ -416,12 +416,12 @@ justify-content: space-evenly;
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg container navbar">
+<nav class="navbar container navbar-expand-lg">
 <a class="navbar-brand" href="index.html"  ><img alt="img/logo.png" src="img/logo.png"  width="200px" height="190px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="align-items-center d-flex ml-auto navbar-nav"><li class="nav-item"><a class="nav-link b30192bd1c14a6882f5c36c5eeb82cdf0" href="news.html"  >Blogs</a></li>
-<li class="nav-item"><a class="nav-link b30192bd1c14a6882f5c36c5eeb82cdf0"  href="about-us.html">About Us</a>
+<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav d-flex ml-auto align-items-center"><li class="nav-item"><a class="nav-link wf56aaf7b511ef61c9a640e00d5170c86" href="news.html"  >Blogs</a></li>
+<li class="nav-item"><a class="wf56aaf7b511ef61c9a640e00d5170c86 nav-link"  href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -491,13 +491,13 @@ justify-content: space-evenly;
 <p data-end="3997" data-start="3867">Questions regarding this Privacy Policy may be submitted through any contact method made available on the Tactical Equipment Hub website.</p>
 </section>
 <footer>
-<div class="py-4 container pt-5" >
+<div class="container pt-5 py-4" >
 <div class="row"><div class="col-lg-3">
 <p>Quick Links</p>
-<p><a class="b30192bd1c14a6882f5c36c5eeb82cdf0" href="https://ubiquitous-starship-b6b139.netlify.app/"  target="_blank">Home</a></p><p><a class="b30192bd1c14a6882f5c36c5eeb82cdf0" href="https://ubiquitous-starship-b6b139.netlify.app/news"  target="_blank">Blogs</a></p><p><a class="b30192bd1c14a6882f5c36c5eeb82cdf0" href="https://ubiquitous-starship-b6b139.netlify.app/about-us"  target="_blank">About Us </a></p><p><a class="b30192bd1c14a6882f5c36c5eeb82cdf0" href="https://ubiquitous-starship-b6b139.netlify.app/privacy-policy"  target="_blank">Privacy Policy</a></p></div><div class="col-lg-3"><p>Featured Guides</p> 
-<p><a class="b30192bd1c14a6882f5c36c5eeb82cdf0" href="sitemap.html" >Sitemap</a></p>
-<p><a class="b30192bd1c14a6882f5c36c5eeb82cdf0" href="privacy-policy.html" >Privacy Policy</a></p>
-<p><a class="b30192bd1c14a6882f5c36c5eeb82cdf0" href="about-us.html" >About Us</a></p>
+<p><a class="wf56aaf7b511ef61c9a640e00d5170c86" href="https://ubiquitous-starship-b6b139.netlify.app/"  target="_blank">Home</a></p><p><a class="wf56aaf7b511ef61c9a640e00d5170c86" href="https://ubiquitous-starship-b6b139.netlify.app/news"  target="_blank">Blogs</a></p><p><a class="wf56aaf7b511ef61c9a640e00d5170c86" href="https://ubiquitous-starship-b6b139.netlify.app/about-us"  target="_blank">About Us </a></p><p><a class="wf56aaf7b511ef61c9a640e00d5170c86" href="https://ubiquitous-starship-b6b139.netlify.app/privacy-policy"  target="_blank">Privacy Policy</a></p></div><div class="col-lg-3"><p>Featured Guides</p> 
+<p><a class="wf56aaf7b511ef61c9a640e00d5170c86" href="sitemap.html" >Sitemap</a></p>
+<p><a class="wf56aaf7b511ef61c9a640e00d5170c86" href="privacy-policy.html" >Privacy Policy</a></p>
+<p><a class="wf56aaf7b511ef61c9a640e00d5170c86" href="about-us.html" >About Us</a></p>
 <p><div class="footer-brand-block">
 <h3>&nbsp;</h3>
 </div></p>
@@ -505,11 +505,11 @@ justify-content: space-evenly;
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/ToughHook" class="y3900cc534153bc3fb1ed823380bf42cc facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.linkedin.com/company/chase-tactical-llc/about/" class="pinterest y3900cc534153bc3fb1ed823380bf42cc" rel="nofollow"><i class="fa fa-linkedin"></i></a>
-<a href="https://www.instagram.com/toughhooks/" class="google y3900cc534153bc3fb1ed823380bf42cc-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/c/Tough-hook" class="youtube y3900cc534153bc3fb1ed823380bf42cc" rel="nofollow"><i class="fa fa-youtube"></i></a>
-<a href="https://twitter.com/ChaseTactical" class="y3900cc534153bc3fb1ed823380bf42cc twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/ToughHook" class="aae54a3a2362dae9fb7e09a8cd6c0d053 facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/company/chase-tactical-llc/about/" class="pinterest aae54a3a2362dae9fb7e09a8cd6c0d053" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/toughhooks/" class="aae54a3a2362dae9fb7e09a8cd6c0d053 google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/c/Tough-hook" class="youtube aae54a3a2362dae9fb7e09a8cd6c0d053" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://twitter.com/ChaseTactical" class="twitter aae54a3a2362dae9fb7e09a8cd6c0d053" rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 </div>
